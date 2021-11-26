@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Aug 24 10:17:07 2021
+Created on 25/11/2021
 
-@author: Andi5
+@author: Priya Sharma
 """
 import streamlit as st
 import time
@@ -20,7 +20,7 @@ t1, t2 = st.columns((0.07,1))
 
 t1.image('images/index.png', width = 120)
 t2.title("South Western Ambulance Service - Hospital Handover Report")
-t2.markdown(" **tel:** 01392 451192 **| website:** https://www.swast.nhs.uk **| email:** mailto:data.science@swast.nhs.uk")
+t2.markdown(" **tel:**9087654321  **| email:** mailto:priya@gmail.com")
 
 
 
